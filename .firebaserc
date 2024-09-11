@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "linkedin-clone-24c1a",
+    "staging": "linkedin-clone-24c1a"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
